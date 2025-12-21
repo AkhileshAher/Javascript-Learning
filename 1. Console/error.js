@@ -1,0 +1,1 @@
+console.error("Something Went Wrong",TypeError());
